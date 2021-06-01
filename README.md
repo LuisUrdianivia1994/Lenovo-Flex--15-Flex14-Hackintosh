@@ -2,5 +2,6 @@
 This is My Hackintosh Build On OpenCore and macOS Catalina 
 Lenovo IdeaPad Flex 14 / Flex 15
 
-![Screen Shot 2021-06-01 at 18 40 18](https://user-images.githubusercontent.com/85201616/120402951-e4295200-c308-11eb-96a8-2bf458261bea.png)
+
+![Screen Shot 2021-06-01 at 18 40 18](https://user-images.githubusercontent.com/85201616/120403214-60bc3080-c309-11eb-8005-edb6b91904e0.png)
 
