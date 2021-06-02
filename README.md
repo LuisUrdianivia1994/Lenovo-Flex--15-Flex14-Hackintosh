@@ -1,6 +1,7 @@
 # Lenovo-Flex-15-and-Flex14-OpenCore-Hackintosh
 
 This is My Hackintosh Build On OpenCore. 90% compatibility with macOS Catalina 
+
 Lenovo IdeaPad Flex 14 / Flex 15
 
 
@@ -25,7 +26,10 @@ Installation
 
 ·Once done, Mount USB EFI Memory
 
-·Copy My EFI Folder 
+·Copy My EFI Folder
+
+[EFI 90 OpenCORE IDEAPAD FLEX15 And Flex 14 support.zip](https://github.com/LuisUrdianivia1994/Lenovo-Flex--15-Flex14-Hackintosh/files/6581228/EFI.90.OpenCORE.IDEAPAD.FLEX15.And.Flex.14.support.zip)
+
 
 ·Paste My EFI Folder Inside Usb EFI 
 
@@ -69,6 +73,10 @@ iT Works
  ·Headphones Plug [Works]
 
  ·Usb Energy [Works]
+ 
+ ·HDMI OUT
+
+
 
 --------------------------
 
@@ -84,20 +92,13 @@ But in progress to Solve it
   ·Wifi (AR9485)
   
   ·Ethernet (i have kext) but my conector is broken im not use lol
+  
+  ·HDMI OUT AUDIO
 
-
----------------------
-
-
-No Tested 
-
- ·HDMI 
-
- ·HDMI AUDIO
 
 -------------------
 
-ISSUES 
+ ISSUES 
 
 High Noise on Internal Microphone
 
