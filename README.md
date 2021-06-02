@@ -1,4 +1,4 @@
-# Lenovo-Flex--15-Flex14-Hackintosh
+# Lenovo-Flex-15-and-Flex14-OpenCore-Hackintosh
 
 This is My Hackintosh Build On OpenCore. 90% compatibility with macOS Catalina 
 Lenovo IdeaPad Flex 14 / Flex 15
@@ -21,8 +21,34 @@ I recommend you to use mac os or a PC with Hackintosh to Create Usb
 
 ---------------------------------------------------------
 
-Once done, Mount EFI Memory and Place MY EFI Folder in its place
-And Install 
+Installation 
+
+·Once done, Mount USB EFI Memory
+
+·Copy My EFI Folder 
+
+·Paste My EFI Folder Inside Usb EFI 
+
+·shutdown Your Laptop 
+
+·Press Novo Button and Enter in Bios Menu
+
+·Go to [Boot] Section 
+
+·Move USB to be first in the boot sequence.
+
+·Save Changes And exit 
+
+·once your See Opencore Boot And Select Install
+
+·The rest as language and formatting options you select it to your preference
+
+
+IMPORTAND NOTE
+
+
+·I recommend the APFS file system and GUID partitions system Is your Choise
+
 
 -------------------
 
@@ -56,6 +82,8 @@ But in progress to Solve it
   ·Sleep Mode
 
   ·Wifi (AR9485)
+  
+  ·Ethernet (i have kext) but my conector is broken im not use lol
 
 
 ---------------------
