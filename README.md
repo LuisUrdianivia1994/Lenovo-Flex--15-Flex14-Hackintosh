@@ -10,7 +10,7 @@ Lenovo IdeaPad Flex 14 / Flex 15
 
 Instruccions to Make it
   
-create your Usb With a mac os image following Dortania guide
+create your Usb With a Mac os image following Dortania guide
 
 https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.html
 
@@ -18,7 +18,7 @@ https://dortania.github.io/OpenCore-Install-Guide/installer-guide/mac-install.ht
 IMPORTAND NOTE
 
 On My Personal Experiense 
-I recommend you to use mac os or a PC with Hackintosh to Create Usb
+I recommend you to use Mac Os or PC with Hackintosh to Create Usb
 
 ---------------------------------------------------------
 
