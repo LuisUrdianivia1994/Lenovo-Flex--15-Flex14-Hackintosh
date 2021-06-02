@@ -30,6 +30,7 @@ Installation
 
 [EFI 90 OpenCORE IDEAPAD FLEX15 And Flex 14 support.zip](https://github.com/LuisUrdianivia1994/Lenovo-Flex--15-Flex14-Hackintosh/files/6581228/EFI.90.OpenCORE.IDEAPAD.FLEX15.And.Flex.14.support.zip)
 
+·Unzip 
 
 ·Paste My EFI Folder Inside Usb EFI 
 
@@ -53,7 +54,22 @@ IMPORTAND NOTE
 
 ·I recommend the APFS file system and GUID partitions system Is your Choise
 
+--------------------------------
 
+
+Post Install
+
+·When Istalation Is Done Mount USB EFI and Copy EFI Folder (paste it on Secure Ubication)
+
+·Mound your HDD or SSD EFI and Paste EFI folder inside them 
+
+·Umount all EFI drivers, and Pull out your USB and Restart
+
+(This is to Boot without the need for USB)
+
+  DONE
+  
+  
 -------------------
 
 iT Works
@@ -101,20 +117,3 @@ But in progress to Solve it
  ISSUES 
 
 High Noise on Internal Microphone
-
-
-
-
-
-
-
-
-
-
-
-
-
-  
-
-
-
