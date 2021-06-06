@@ -28,7 +28,8 @@ Installation
 
 ·Copy My EFI Folder
 
-[EFI 90 OpenCORE IDEAPAD FLEX15 And Flex 14 support.zip](https://github.com/LuisUrdianivia1994/Lenovo-Flex--15-Flex14-Hackintosh/files/6581228/EFI.90.OpenCORE.IDEAPAD.FLEX15.And.Flex.14.support.zip)
+[EFI.zip](https://github.com/LuisUrdianivia1994/Lenovo-Flex--15-Flex14-Hackintosh/files/6605071/EFI.zip)
+
 
 ·Unzip 
 
@@ -84,15 +85,26 @@ iT Works
 
  ·Keyboard [Works]
 
- ·WebCAM [Works]
+ ·WebCam [Works]
 
  ·Headphones Plug [Works]
 
  ·Usb Energy [Works]
  
- ·HDMI OUT
+ ·HDMI OUT. [Works]
+ 
+ 
+ 
+   (New Update) Sunday 6 June 2021 
+   
+   
+ 
+ ·Battery Status.  [Works]
 
-
+ ·Ambient ligh Sensor (Sometimes). [Works]
+ 
+ ·Bluethooth (AR9485).  (Needs boot whit USB already kext injected)  [Works]
+ 
 
 --------------------------
 
@@ -100,8 +112,6 @@ Not Works
 
 But in progress to Solve it 
 
-
-  ·Battery Status
 
   ·Sleep Mode
 
@@ -117,3 +127,8 @@ But in progress to Solve it
  ISSUES 
 
 High Noise on Internal Microphone
+
+USB mapping always Says needs Rename but is allready named and Usb ports mapped 
+
+Touchpad issue 
+
