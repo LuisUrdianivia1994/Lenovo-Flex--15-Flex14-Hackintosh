@@ -135,5 +135,4 @@ High Noise on Internal Microphone
 
 USB mapping always Says needs Rename but is allready named and Usb ports mapped 
 
-Touchpad issue 
 
