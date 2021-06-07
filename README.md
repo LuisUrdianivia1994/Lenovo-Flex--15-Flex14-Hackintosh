@@ -105,6 +105,11 @@ iT Works
  
  ·Bluethooth (AR9485).  (Needs boot whit USB already kext injected)  [Works]
  
+ ·Touchpad Smart Gestures 
+ 
+ (ONLY add ApplePS2Smarttouchpad.kext in OC/kext and apply changes in config.plist)
+
+ 
 
 --------------------------
 
