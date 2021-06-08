@@ -1,11 +1,11 @@
 # Lenovo-Flex-15-and-Flex14-OpenCore-Hackintosh
 
-This is My Hackintosh Build On OpenCore. 95% compatibility with macOS Catalina 
+This is My Hackintosh Build On OpenCore. 99% compatibility with macOS Catalina 
 
 Lenovo IdeaPad Flex 14 / Flex 15
 
 
-![Screen Shot 2021-06-01 at 18 40 18](https://user-images.githubusercontent.com/85201616/120403214-60bc3080-c309-11eb-8005-edb6b91904e0.png)
+![Screen Shot 2021-06-07 at 20 08 18](https://user-images.githubusercontent.com/85201616/121106745-387e7700-c7cc-11eb-9bb0-cc5e19f6daf1.png)
 
 
 Instruccions to Make it
@@ -47,14 +47,13 @@ Installation
 
 ·once your See Opencore Boot And Select Install
 
-·The rest as language and formatting options you select it to your preference
+·The rest as language and formatting options 
 
 
 IMPORTAND NOTE
 
 
-·I recommend the APFS file system and GUID partitions system Is your Choise
-
+·I recommend the APFS file system and GUID partitions system
 --------------------------------
 
 
@@ -68,7 +67,8 @@ Post Install
 
 (This is to Boot without the need for USB)
 
-  DONE
+
+  DONE!!
   
   
 -------------------
@@ -101,13 +101,24 @@ iT Works
  
  ·Battery Status.  [Works]
 
- ·Ambient ligh Sensor (Sometimes). [Works]
+ ·Ambient ligh Sensor  [Works]
  
- ·Bluethooth (AR9485).  (Needs boot whit USB already kext injected)  [Works]
+ ·Bluethooth (AR9485) (Needs boot whit USB already kext injected)  [Works]
  
- ·Touchpad Smart Gestures 
+ ·Touchpad Smart Gestures [Works]
  
  (ONLY add ApplePS2Smarttouchpad.kext in OC/kext and apply changes in config.plist)
+ 
+ 
+ 
+ 
+ (New Update) Monday 7 June 2021
+ 
+ 
+ ·Wifi (AR9585) [Works]
+ 
+ 
+ ·Sleep Mode [Works]
 
  
 
@@ -117,22 +128,25 @@ Not Works
 
 But in progress to Solve it 
 
-
-  ·Sleep Mode
-
-  ·Wifi (AR9485)
   
-  ·Ethernet (i have kext) but my conector is broken im not use lol
+  ·Ethernet (i have kext) but my conector is broken im not use ....LOL
   
-  ·HDMI OUT AUDIO
+  
+  ·HDMI AUDIO OUT
 
 
 -------------------
 
  ISSUES 
+ 
 
 High Noise on Internal Microphone
 
+
 USB mapping always Says needs Rename but is allready named and Usb ports mapped 
+
+
+Sleep Mode [Works But Bluethooth and usb porst down]
+
 
 
