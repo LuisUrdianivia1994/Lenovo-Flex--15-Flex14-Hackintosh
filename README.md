@@ -5,7 +5,7 @@ This is My Hackintosh Build On OpenCore. 99% compatibility with macOS Catalina
 Lenovo IdeaPad Flex 14 / Flex 15
 
 
-![Screen Shot 2021-06-07 at 20 08 18](https://user-images.githubusercontent.com/85201616/121106745-387e7700-c7cc-11eb-9bb0-cc5e19f6daf1.png)
+![Screen Shot 2021-06-07 at 20 18 38](https://user-images.githubusercontent.com/85201616/121107472-9b244280-c7cd-11eb-97ee-f401549b77d4.png)
 
 
 Instruccions to Make it
