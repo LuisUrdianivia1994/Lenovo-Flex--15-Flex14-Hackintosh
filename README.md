@@ -1,6 +1,6 @@
 # Lenovo-Flex-15-and-Flex14-OpenCore-Hackintosh
 
-This is My Hackintosh Build On OpenCore. 99% compatibility with macOS Catalina 
+This is My Hackintosh Build On OpenCore. 99% compatibility with MacOS /HighSierra/Catalina/BigSur 
 
 Lenovo IdeaPad Flex 14 / Flex 15
 
