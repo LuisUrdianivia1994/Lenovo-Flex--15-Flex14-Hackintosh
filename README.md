@@ -5,7 +5,9 @@ This is My Hackintosh Build On OpenCore. 99% compatibility with MacOS /HighSierr
 Lenovo IdeaPad Flex 14 / Flex 15
 
 
-![Screen Shot 2021-06-07 at 20 18 38](https://user-images.githubusercontent.com/85201616/121107472-9b244280-c7cd-11eb-97ee-f401549b77d4.png)
+![Captura de Pantalla 2022-03-30 a la(s) 4 40 02 a m](https://user-images.githubusercontent.com/85201616/160813347-8d471c8e-105c-4a24-88a2-6c3f0f0365b1.png)
+
+
 
 
 Instruccions to Make it
@@ -75,7 +77,7 @@ Post Install
 
 iT Works
 
- ·Audio ALC 283 [Works] only VoodoooHDA.kext
+ ·Audio ALC 283 [Works] AppleALC.    ❌VoodoooHDA.kext
 
  ·Intel HD Graphics  4400 [Works]
 
@@ -124,9 +126,10 @@ iT Works
 
 --------------------------
 
-Not Works 
+ Not Works ❌
+ 
+ it works now ✓
 
-But in progress to Solve it 
 
   
   ·Ethernet (i have kext) but my conector is broken im not use ....LOL
@@ -137,7 +140,7 @@ But in progress to Solve it
 
 -------------------
 
- ISSUES 
+Resolved
  
 
 High Noise on Internal Microphone
@@ -147,6 +150,49 @@ USB mapping always Says needs Rename but is allready named and Usb ports mapped
 
 
 Sleep Mode [Works But Bluethooth and usb porst down]
+
+-------------------
+
+New update
+
+Wednesday 30 March 2022
+
+
+Change list
+
+- SMbios MacbookPro11,4 to update Monterey (don't update if you have AR9485)
+
+- Asome ACPI added:
+
+
+- SSDT-WMIS 
+
+- SSDT-TVPC
+
+- SSDT-DMAC
+
+- SSDT-EHCx-disable
+
+- SSDT-ECRW (to use YogaSMC kext)
+
+-------------------------
+
+Correction On DSDT
+
+- Some error warnings and EHCI renames are corrected 
+
+- Layout ID : 3
+
+- some devices had to be set ASPM disabled like northbridge and network adapter
+
+
+Miscellaneous:
+ 
+- BootChime and Boot "PickerMode" 
+
+Additional Information
+
+- ⚠️Generate your own Serial Number and MBL for obvious reasons⚠️
 
 
 
